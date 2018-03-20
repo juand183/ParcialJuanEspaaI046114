@@ -21,7 +21,7 @@
 
             >
 
-
+            <include layout="@layout/picture2" />
             <include layout="@layout/picture" />
 
             <include layout="@layout/picture1" />
